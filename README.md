@@ -133,7 +133,7 @@ All APIs are deployed on Google Cloud Run ☁️, ensuring scalability and relia
 ---
 
 ## License 📜
-This project is licensed under the MIT License 📄.
+This project is licensed under the [MIT License](https://github.com/ResQAI/ResQAI-ML-models-AI-APIs/blob/main/LICENSE) 📄.
 
 ---
 
