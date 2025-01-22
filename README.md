@@ -3,6 +3,8 @@
 ## Overview 🌟
 This repository is part of the ResQAI system, a disaster response and management platform designed to improve coordination among stakeholders during natural calamities. The `ResQAI-ML-Models-AI-APIs` repo focuses on AI and machine learning components, offering pre-trained models, Flask APIs, and generative AI integrations to enhance disaster management capabilities.
 
+**Check out the main ResQAI repository here:** [ResQAI GitHub Repo](https://github.com/ResQAI/ResQAI)
+
 ---
 
 ## Tech Stack 🛠️
