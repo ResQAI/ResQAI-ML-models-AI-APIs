@@ -115,7 +115,7 @@ All folders containing APIs (e.g., `main.py` and `requirements.txt`) follow a si
    GOOGLE_GENAI_API_KEY=<Your Google AI API Key>
    GOOGLE_CREDENTIAL_FILE=<Path to your GCP JSON key>
    PROJECT_ID=<Your Google Cloud Project ID>
-   ENDPOINT_ID=8595059415697063936  # For Earthquake prediction API
+   ENDPOINT_ID=  # For Earthquake prediction API
    ```
 5. Run the API:
    ```bash
